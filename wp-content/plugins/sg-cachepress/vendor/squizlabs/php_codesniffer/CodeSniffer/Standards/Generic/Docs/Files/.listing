@@ -1,0 +1,11 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   16 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          262 Sep 28  2019 ByteOrderMarkStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          161 Sep 28  2019 EndFileNewlineStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          168 Sep 28  2019 EndFileNoNewlineStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          595 Sep 28  2019 InlineHTMLStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          175 Sep 28  2019 LineEndingsStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          207 Sep 28  2019 LineLengthStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          153 Sep 28  2019 LowercasedFilenameStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          514 Sep 28  2019 OneClassPerFileStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          541 Sep 28  2019 OneInterfacePerFileStandard.xml

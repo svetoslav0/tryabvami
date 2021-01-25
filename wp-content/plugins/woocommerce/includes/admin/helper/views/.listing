@@ -1,0 +1,8 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 31  2019 .
+drwxr-xr-x    3 tryabvam   tryabvam         4096 May 31  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          470 May 31  2019 html-helper-compat.php
+-rw-r--r--    1 tryabvam   tryabvam        10043 May 31  2019 html-main.php
+-rw-r--r--    1 tryabvam   tryabvam         1486 May 31  2019 html-oauth-start.php
+-rw-r--r--    1 tryabvam   tryabvam          951 May 31  2019 html-section-account.php
+-rw-r--r--    1 tryabvam   tryabvam          571 May 31  2019 html-section-nav.php
+-rw-r--r--    1 tryabvam   tryabvam          237 May 31  2019 html-section-notices.php

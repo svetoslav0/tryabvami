@@ -1,0 +1,17 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          253 Jun  3  2019 additional.php
+-rw-r--r--    1 tryabvam   tryabvam          251 Jun  3  2019 content.php
+-rw-r--r--    1 tryabvam   tryabvam         1400 Jun  3  2019 faqs.php
+-rw-r--r--    1 tryabvam   tryabvam         1142 Jun  3  2019 features.php
+-rw-r--r--    1 tryabvam   tryabvam         7343 Jun  3  2019 gallery.php
+-rw-r--r--    1 tryabvam   tryabvam         2600 Jun  3  2019 list-announcements.php
+-rw-r--r--    1 tryabvam   tryabvam         6427 Jun  3  2019 list-deals.php
+-rw-r--r--    1 tryabvam   tryabvam         5313 Jun  3  2019 list-discount.php
+-rw-r--r--    1 tryabvam   tryabvam         8173 Jun  3  2019 list-menu.php
+-rw-r--r--    1 tryabvam   tryabvam         1663 Jun  3  2019 list-offer-deals-discount.php
+-rw-r--r--    1 tryabvam   tryabvam         7810 Jun  3  2019 list-offers.php
+-rw-r--r--    1 tryabvam   tryabvam          256 Jun  3  2019 reviewform.php
+-rw-r--r--    1 tryabvam   tryabvam          106 Jun  3  2019 reviews.php
+-rw-r--r--    1 tryabvam   tryabvam         4527 Jun  3  2019 title-bar.php
+-rw-r--r--    1 tryabvam   tryabvam         1454 Jun  3  2019 video.php

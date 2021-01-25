@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         6615 Sep 28  2019 DisallowSpaceIndentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         5300 Sep 28  2019 DisallowTabIndentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam        56560 Sep 28  2019 ScopeIndentSniff.php

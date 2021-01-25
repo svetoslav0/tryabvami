@@ -1,0 +1,9 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   23 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         1019 Sep 28  2019 Cli.php
+-rw-r--r--    1 tryabvam   tryabvam         2306 Sep 28  2019 Cli_Https.php
+-rw-r--r--    1 tryabvam   tryabvam         2034 Sep 28  2019 Cli_Memcache.php
+-rw-r--r--    1 tryabvam   tryabvam         8048 Sep 28  2019 Cli_Optimizer.php
+-rw-r--r--    1 tryabvam   tryabvam         2921 Sep 28  2019 Cli_Php_Checker.php
+-rw-r--r--    1 tryabvam   tryabvam         1705 Sep 28  2019 Cli_Purge.php
+-rw-r--r--    1 tryabvam   tryabvam         4980 Sep 28  2019 Cli_Status.php

@@ -1,0 +1,14 @@
+drwxr-xr-x    6 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        53459 Sep 28  2019 CLI.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 DocGenerators
+-rw-r--r--    1 tryabvam   tryabvam         1046 Sep 28  2019 Exception.php
+-rw-r--r--    1 tryabvam   tryabvam       145079 Sep 28  2019 File.php
+-rw-r--r--    1 tryabvam   tryabvam        22332 Sep 28  2019 Fixer.php
+-rw-r--r--    1 tryabvam   tryabvam         2797 Sep 28  2019 Report.php
+-rw-r--r--    1 tryabvam   tryabvam        13085 Sep 28  2019 Reporting.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 Reports
+-rw-r--r--    1 tryabvam   tryabvam         3374 Sep 28  2019 Sniff.php
+drwxr-xr-x   10 tryabvam   tryabvam         4096 Sep 28  2019 Standards
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 Tokenizers
+-rw-r--r--    1 tryabvam   tryabvam        36451 Sep 28  2019 Tokens.php

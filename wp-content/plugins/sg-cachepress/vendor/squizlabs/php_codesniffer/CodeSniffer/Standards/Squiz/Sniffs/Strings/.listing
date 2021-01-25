@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   18 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         5569 Sep 28  2019 ConcatenationSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         5026 Sep 28  2019 DoubleQuoteUsageSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3754 Sep 28  2019 EchoedStringsSniff.php

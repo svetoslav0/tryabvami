@@ -1,0 +1,10 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    6 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          299 Jun  3  2019 advanced_custom_fields.js
+-rw-r--r--    1 tryabvam   tryabvam         1674 Jun  3  2019 qtranslate_backend.js
+-rw-r--r--    1 tryabvam   tryabvam          851 Jun  3  2019 qtranslate_frontend.js
+-rw-r--r--    1 tryabvam   tryabvam          535 Jun  3  2019 qtranslatex_backend.js
+-rw-r--r--    1 tryabvam   tryabvam          452 Jun  3  2019 qtranslatex_frontend.js
+-rw-r--r--    1 tryabvam   tryabvam          895 Jun  3  2019 woocommerce-add-to-cart.js
+-rw-r--r--    1 tryabvam   tryabvam         1359 Jun  3  2019 woocommerce.js
+-rw-r--r--    1 tryabvam   tryabvam         2936 Jun  3  2019 yoast.js

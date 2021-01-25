@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: My City were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://tryabvami.bg
+Data file = /home/tryabvam/public_html/wp-content/uploads/2019/06/demo-content-import-file_2019-06-03__18-40-45.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import case27_job_listing_tags Accepts Credit Cards
+[WARNING] Failed to import region Amsterdam
+[WARNING] Failed to import case27_job_listing_tags Bike Parking
+[WARNING] Failed to import case27_job_listing_tags Coupons
+[WARNING] Failed to import region London
+[WARNING] Failed to import case27_job_listing_tags Parking Street
+[WARNING] Failed to import region Prague
+[WARNING] Failed to import region Rome
+[WARNING] Failed to import case27_job_listing_tags Smoking Allowed
+[WARNING] Failed to import case27_job_listing_tags Wireless Internet
+
+
+------
+New AJAX call!
+[WARNING] Failed to import case27_job_listing_tags Accepts Credit Cards
+[WARNING] Failed to import region Amsterdam
+[WARNING] Failed to import case27_job_listing_tags Bike Parking
+[WARNING] Failed to import case27_job_listing_tags Coupons
+[WARNING] Failed to import region London
+[WARNING] Failed to import case27_job_listing_tags Parking Street
+[WARNING] Failed to import region Prague
+[WARNING] Failed to import region Rome
+[WARNING] Failed to import case27_job_listing_tags Smoking Allowed
+[WARNING] Failed to import case27_job_listing_tags Wireless Internet
+[WARNING] Failed to import "Place": Invalid post type case27_listing_type
+[WARNING] Failed to import "Event": Invalid post type case27_listing_type
+[WARNING] Failed to import "Rent": Invalid post type case27_listing_type
+
+
+---pt-ocdi/after_import---
+

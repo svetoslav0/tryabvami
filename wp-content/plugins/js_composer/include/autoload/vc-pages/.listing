@@ -1,0 +1,9 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    5 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          786 Jun  3  2019 automapper.php
+-rw-r--r--    1 tryabvam   tryabvam          337 Jun  3  2019 page-custom-css.php
+-rw-r--r--    1 tryabvam   tryabvam         5039 Jun  3  2019 page-design-options.php
+-rw-r--r--    1 tryabvam   tryabvam         1516 Jun  3  2019 page-role-manager.php
+-rw-r--r--    1 tryabvam   tryabvam         2330 Jun  3  2019 pages.php
+-rw-r--r--    1 tryabvam   tryabvam         1227 Jun  3  2019 settings-tabs.php
+-rw-r--r--    1 tryabvam   tryabvam         3104 Jun  3  2019 welcome-screen.php

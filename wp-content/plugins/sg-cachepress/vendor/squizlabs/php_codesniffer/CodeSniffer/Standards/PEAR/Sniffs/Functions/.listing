@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   10 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        23604 Sep 28  2019 FunctionCallSignatureSniff.php
+-rw-r--r--    1 tryabvam   tryabvam        18266 Sep 28  2019 FunctionDeclarationSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3172 Sep 28  2019 ValidDefaultValueSniff.php

@@ -1,0 +1,6 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    9 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         3774 Sep 28  2019 AjaxNullComparisonSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         4341 Sep 28  2019 EvalObjectFactorySniff.php
+-rw-r--r--    1 tryabvam   tryabvam         4033 Sep 28  2019 GetRequestDataSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2381 Sep 28  2019 ReturnFunctionValueSniff.php

@@ -1,0 +1,8 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         3556 Sep 28  2019 build-phar.php
+-rw-r--r--    1 tryabvam   tryabvam          640 Sep 28  2019 phpcbf
+-rw-r--r--    1 tryabvam   tryabvam          595 Sep 28  2019 phpcbf.bat
+-rw-r--r--    1 tryabvam   tryabvam          758 Sep 28  2019 phpcs
+-rw-r--r--    1 tryabvam   tryabvam         7532 Sep 28  2019 phpcs-svn-pre-commit
+-rw-r--r--    1 tryabvam   tryabvam          715 Sep 28  2019 phpcs.bat

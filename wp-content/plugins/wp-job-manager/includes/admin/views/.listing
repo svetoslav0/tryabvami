@@ -1,0 +1,10 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 31  2019 .
+drwxr-xr-x    3 tryabvam   tryabvam         4096 May 31  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          831 May 31  2019 html-admin-notice-core-setup.php
+-rw-r--r--    1 tryabvam   tryabvam         2693 May 31  2019 html-admin-page-addons.php
+-rw-r--r--    1 tryabvam   tryabvam          128 May 31  2019 html-admin-setup-footer.php
+-rw-r--r--    1 tryabvam   tryabvam          825 May 31  2019 html-admin-setup-header.php
+-rw-r--r--    1 tryabvam   tryabvam          367 May 31  2019 html-admin-setup-opt-in-usage-tracking.php
+-rw-r--r--    1 tryabvam   tryabvam         1526 May 31  2019 html-admin-setup-step-1.php
+-rw-r--r--    1 tryabvam   tryabvam         3823 May 31  2019 html-admin-setup-step-2.php
+-rw-r--r--    1 tryabvam   tryabvam         3740 May 31  2019 html-admin-setup-step-3.php

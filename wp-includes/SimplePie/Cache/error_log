@@ -1,0 +1,2 @@
+
+[14-Sep-2020 00:10:37 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/tryabvam/public_html/wp-includes/SimplePie/Cache/File.php on line 51

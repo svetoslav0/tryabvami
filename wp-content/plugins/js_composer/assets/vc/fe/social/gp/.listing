@@ -1,0 +1,14 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    6 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          252 Jun  3  2019 medium.png
+-rw-r--r--    1 tryabvam   tryabvam          344 Jun  3  2019 medium_bubble.png
+-rw-r--r--    1 tryabvam   tryabvam          589 Jun  3  2019 medium_desc.png
+-rw-r--r--    1 tryabvam   tryabvam          213 Jun  3  2019 small.png
+-rw-r--r--    1 tryabvam   tryabvam          346 Jun  3  2019 small_bubble.png
+-rw-r--r--    1 tryabvam   tryabvam          565 Jun  3  2019 small_desc.png
+-rw-r--r--    1 tryabvam   tryabvam          268 Jun  3  2019 standard.png
+-rw-r--r--    1 tryabvam   tryabvam          409 Jun  3  2019 standard_bubble.png
+-rw-r--r--    1 tryabvam   tryabvam          611 Jun  3  2019 standard_desc.png
+-rw-r--r--    1 tryabvam   tryabvam          252 Jun  3  2019 tall.png
+-rw-r--r--    1 tryabvam   tryabvam          351 Jun  3  2019 tall_bubble.png
+-rw-r--r--    1 tryabvam   tryabvam          644 Jun  3  2019 tall_desc.png

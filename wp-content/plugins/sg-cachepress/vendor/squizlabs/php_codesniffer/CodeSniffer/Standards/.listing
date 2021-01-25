@@ -1,0 +1,14 @@
+drwxr-xr-x   10 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    6 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        36385 Sep 28  2019 AbstractPatternSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         6506 Sep 28  2019 AbstractScopeSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         8081 Sep 28  2019 AbstractVariableSniff.php
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Sep 28  2019 Generic
+-rw-r--r--    1 tryabvam   tryabvam         1126 Sep 28  2019 IncorrectPatternException.php
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Sep 28  2019 MySource
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Sep 28  2019 PEAR
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 PHPCS
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Sep 28  2019 PSR1
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Sep 28  2019 PSR2
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Sep 28  2019 Squiz
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Sep 28  2019 Zend

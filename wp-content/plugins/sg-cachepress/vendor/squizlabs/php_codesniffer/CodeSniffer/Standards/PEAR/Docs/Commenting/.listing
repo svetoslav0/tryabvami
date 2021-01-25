@@ -1,0 +1,6 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   10 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         3261 Sep 28  2019 ClassCommentStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam         6598 Sep 28  2019 FileCommentStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam         4631 Sep 28  2019 FunctionCommentStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          436 Sep 28  2019 InlineCommentStandard.xml

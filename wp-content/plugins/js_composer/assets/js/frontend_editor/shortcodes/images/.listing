@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    9 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          569 Jun  3  2019 vc_gallery.js
+-rw-r--r--    1 tryabvam   tryabvam          409 Jun  3  2019 vc_images_carousel.js
+-rw-r--r--    1 tryabvam   tryabvam          785 Jun  3  2019 vc_single_image.js

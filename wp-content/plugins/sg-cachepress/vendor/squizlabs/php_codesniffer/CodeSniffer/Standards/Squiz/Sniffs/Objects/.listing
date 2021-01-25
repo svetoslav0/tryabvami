@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   18 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         2967 Sep 28  2019 DisallowObjectStringIndexSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2541 Sep 28  2019 ObjectInstantiationSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2242 Sep 28  2019 ObjectMemberCommaSniff.php

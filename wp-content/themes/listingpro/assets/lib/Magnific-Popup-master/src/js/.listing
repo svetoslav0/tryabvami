@@ -1,0 +1,11 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         1500 Jun  3  2019 ajax.js
+-rw-r--r--    1 tryabvam   tryabvam        21422 Jun  3  2019 core.js
+-rw-r--r--    1 tryabvam   tryabvam         2306 Jun  3  2019 fastclick.js
+-rw-r--r--    1 tryabvam   tryabvam         5888 Jun  3  2019 gallery.js
+-rw-r--r--    1 tryabvam   tryabvam         2410 Jun  3  2019 iframe.js
+-rw-r--r--    1 tryabvam   tryabvam         5424 Jun  3  2019 image.js
+-rw-r--r--    1 tryabvam   tryabvam         1562 Jun  3  2019 inline.js
+-rw-r--r--    1 tryabvam   tryabvam          771 Jun  3  2019 retina.js
+-rw-r--r--    1 tryabvam   tryabvam         4278 Jun  3  2019 zoom.js

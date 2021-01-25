@@ -1,0 +1,13 @@
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         2332 Jun  3  2019 cookie.js
+-rw-r--r--    1 tryabvam   tryabvam        23309 Jun  3  2019 jquery.alphanum.js
+-rw-r--r--    1 tryabvam   tryabvam         1658 Jun  3  2019 jquery.serializeForm.js
+-rw-r--r--    1 tryabvam   tryabvam         2548 Jun  3  2019 jquery.typewatch.js
+-rw-r--r--    1 tryabvam   tryabvam        10829 Jun  3  2019 jsonview.js
+-rw-r--r--    1 tryabvam   tryabvam         5592 Jun  3  2019 jsonview.min.js
+-rw-r--r--    1 tryabvam   tryabvam        10042 Jun  3  2019 lte-ie7.js
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 qtip
+-rw-r--r--    1 tryabvam   tryabvam         5624 Jun  3  2019 redux.select2.sortable.js
+-rw-r--r--    1 tryabvam   tryabvam         1891 Jun  3  2019 redux.select2.sortable.min.js
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 spectrum

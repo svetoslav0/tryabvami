@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        14265 Sep 28  2019 DocCommentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2834 Sep 28  2019 FixmeSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2708 Sep 28  2019 TodoSniff.php

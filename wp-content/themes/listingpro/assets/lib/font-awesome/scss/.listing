@@ -1,0 +1,16 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    6 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          715 Jun  3  2019 _animated.scss
+-rw-r--r--    1 tryabvam   tryabvam          592 Jun  3  2019 _bordered-pulled.scss
+-rw-r--r--    1 tryabvam   tryabvam          459 Jun  3  2019 _core.scss
+-rw-r--r--    1 tryabvam   tryabvam          120 Jun  3  2019 _fixed-width.scss
+-rw-r--r--    1 tryabvam   tryabvam        50498 Jun  3  2019 _icons.scss
+-rw-r--r--    1 tryabvam   tryabvam          375 Jun  3  2019 _larger.scss
+-rw-r--r--    1 tryabvam   tryabvam          378 Jun  3  2019 _list.scss
+-rw-r--r--    1 tryabvam   tryabvam         1637 Jun  3  2019 _mixins.scss
+-rw-r--r--    1 tryabvam   tryabvam          783 Jun  3  2019 _path.scss
+-rw-r--r--    1 tryabvam   tryabvam          672 Jun  3  2019 _rotated-flipped.scss
+-rw-r--r--    1 tryabvam   tryabvam          134 Jun  3  2019 _screen-reader.scss
+-rw-r--r--    1 tryabvam   tryabvam          482 Jun  3  2019 _stacked.scss
+-rw-r--r--    1 tryabvam   tryabvam        22644 Jun  3  2019 _variables.scss
+-rw-r--r--    1 tryabvam   tryabvam          430 Jun  3  2019 font-awesome.scss

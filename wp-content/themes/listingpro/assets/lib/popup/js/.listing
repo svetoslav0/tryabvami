@@ -1,0 +1,7 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    5 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          619 Jun  3  2019 classie.js
+-rw-r--r--    1 tryabvam   tryabvam        12534 Jun  3  2019 css-filters-polyfill.js
+-rw-r--r--    1 tryabvam   tryabvam        96863 Jun  3  2019 cssParser.js
+-rw-r--r--    1 tryabvam   tryabvam          634 Jun  3  2019 modalEffects.js
+-rw-r--r--    1 tryabvam   tryabvam         8496 Jun  3  2019 modernizr.custom.js

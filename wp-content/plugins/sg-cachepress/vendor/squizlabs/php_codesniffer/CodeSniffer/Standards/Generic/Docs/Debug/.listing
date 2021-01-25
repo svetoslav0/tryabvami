@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   16 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          473 Sep 28  2019 CSSLintStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          491 Sep 28  2019 ClosureLinterStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          469 Sep 28  2019 JSHintStandard.xml

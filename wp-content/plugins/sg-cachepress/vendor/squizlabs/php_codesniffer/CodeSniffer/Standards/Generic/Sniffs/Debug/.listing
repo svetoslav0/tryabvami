@@ -1,0 +1,6 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         2892 Sep 28  2019 CSSLintSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3594 Sep 28  2019 ClosureLinterSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3547 Sep 28  2019 ESLintSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2962 Sep 28  2019 JSHintSniff.php

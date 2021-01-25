@@ -1,0 +1,14 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    5 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         2640 Jun  3  2019 affix.min.js
+-rw-r--r--    1 tryabvam   tryabvam         1148 Jun  3  2019 alert.min.js
+-rw-r--r--    1 tryabvam   tryabvam         1699 Jun  3  2019 button.min.js
+-rw-r--r--    1 tryabvam   tryabvam         4291 Jun  3  2019 carousel.min.js
+-rw-r--r--    1 tryabvam   tryabvam         3552 Jun  3  2019 collapse.min.js
+-rw-r--r--    1 tryabvam   tryabvam         2691 Jun  3  2019 dropdown.min.js
+-rw-r--r--    1 tryabvam   tryabvam         5331 Jun  3  2019 modal.min.js
+-rw-r--r--    1 tryabvam   tryabvam         1862 Jun  3  2019 popover.min.js
+-rw-r--r--    1 tryabvam   tryabvam         2810 Jun  3  2019 scrollspy.min.js
+-rw-r--r--    1 tryabvam   tryabvam         1729 Jun  3  2019 tab.min.js
+-rw-r--r--    1 tryabvam   tryabvam         9878 Jun  3  2019 tooltip.min.js
+-rw-r--r--    1 tryabvam   tryabvam          620 Jun  3  2019 transition.min.js

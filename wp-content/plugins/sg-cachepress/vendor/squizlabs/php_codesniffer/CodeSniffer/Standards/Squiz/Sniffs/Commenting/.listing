@@ -1,0 +1,14 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   18 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        14205 Sep 28  2019 BlockCommentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3206 Sep 28  2019 ClassCommentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         5442 Sep 28  2019 ClosingDeclarationCommentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         6157 Sep 28  2019 DocCommentAlignmentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2206 Sep 28  2019 EmptyCatchCommentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         8434 Sep 28  2019 FileCommentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam        29798 Sep 28  2019 FunctionCommentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam        10498 Sep 28  2019 FunctionCommentThrowTagSniff.php
+-rw-r--r--    1 tryabvam   tryabvam        12044 Sep 28  2019 InlineCommentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         7910 Sep 28  2019 LongConditionClosingCommentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3100 Sep 28  2019 PostStatementCommentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         6451 Sep 28  2019 VariableCommentSniff.php

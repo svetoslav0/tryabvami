@@ -1,0 +1,16 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Mar 21  2019 .
+drwxr-xr-x    3 tryabvam   tryabvam         4096 May 11  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        15642 Mar  8  2019 custom-html-widgets.js
+-rw-r--r--    1 tryabvam   tryabvam         5567 Mar  8  2019 custom-html-widgets.min.js
+-rw-r--r--    1 tryabvam   tryabvam         4288 Jun 28  2018 media-audio-widget.js
+-rw-r--r--    1 tryabvam   tryabvam         1440 May 12  2017 media-audio-widget.min.js
+-rw-r--r--    1 tryabvam   tryabvam        10362 Jun 28  2018 media-gallery-widget.js
+-rw-r--r--    1 tryabvam   tryabvam         3779 Oct 20  2017 media-gallery-widget.min.js
+-rw-r--r--    1 tryabvam   tryabvam         5473 Jun 28  2018 media-image-widget.js
+-rw-r--r--    1 tryabvam   tryabvam         2023 Sep 25  2017 media-image-widget.min.js
+-rw-r--r--    1 tryabvam   tryabvam         7026 Jun 28  2018 media-video-widget.js
+-rw-r--r--    1 tryabvam   tryabvam         2705 Oct 19  2017 media-video-widget.min.js
+-rw-r--r--    1 tryabvam   tryabvam        42824 Jun 28  2018 media-widgets.js
+-rw-r--r--    1 tryabvam   tryabvam        14422 Oct 19  2017 media-widgets.min.js
+-rw-r--r--    1 tryabvam   tryabvam        18101 Jun 28  2018 text-widgets.js
+-rw-r--r--    1 tryabvam   tryabvam         5924 Sep  8  2017 text-widgets.min.js

@@ -1,0 +1,16 @@
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Jun  3  2019 ..
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 acf
+-rw-r--r--    1 tryabvam   tryabvam         2126 Jun  3  2019 class-vc-vendor-advanced-custom-fields.php
+-rw-r--r--    1 tryabvam   tryabvam         1871 Jun  3  2019 class-vc-vendor-contact-form7.php
+-rw-r--r--    1 tryabvam   tryabvam         2026 Jun  3  2019 class-vc-vendor-jwplayer.php
+-rw-r--r--    1 tryabvam   tryabvam         4087 Jun  3  2019 class-vc-vendor-layerslider.php
+-rw-r--r--    1 tryabvam   tryabvam          753 Jun  3  2019 class-vc-vendor-mqtranslate.php
+-rw-r--r--    1 tryabvam   tryabvam         2946 Jun  3  2019 class-vc-vendor-ninja-forms.php
+-rw-r--r--    1 tryabvam   tryabvam         2552 Jun  3  2019 class-vc-vendor-qtranslate-x.php
+-rw-r--r--    1 tryabvam   tryabvam         9077 Jun  3  2019 class-vc-vendor-qtranslate.php
+-rw-r--r--    1 tryabvam   tryabvam         4028 Jun  3  2019 class-vc-vendor-revslider.php
+-rw-r--r--    1 tryabvam   tryabvam        55002 Jun  3  2019 class-vc-vendor-woocommerce.php
+-rw-r--r--    1 tryabvam   tryabvam         1227 Jun  3  2019 class-vc-vendor-wpml.php
+-rw-r--r--    1 tryabvam   tryabvam         3504 Jun  3  2019 class-vc-vendor-yoast_seo.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 woocommerce

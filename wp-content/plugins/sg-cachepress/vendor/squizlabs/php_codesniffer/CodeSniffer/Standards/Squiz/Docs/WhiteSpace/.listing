@@ -1,0 +1,8 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   10 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          475 Sep 28  2019 CastSpacingStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          906 Sep 28  2019 FunctionOpeningBraceStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          562 Sep 28  2019 LanguageConstructSpacingStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          513 Sep 28  2019 ObjectOperatorSpacingStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          576 Sep 28  2019 ScopeKeywordSpacingStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          446 Sep 28  2019 SemicolonSpacingStandard.xml

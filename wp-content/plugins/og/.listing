@@ -1,0 +1,8 @@
+drwxr-xr-x    5 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   23 tryabvam   tryabvam         4096 Jan  6 05:05 ..
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Sep 28  2019 assets
+-rw-r--r--    1 tryabvam   tryabvam            7 Sep 28  2019 index.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 languages
+-rw-r--r--    1 tryabvam   tryabvam          593 Sep 28  2019 og.php
+-rw-r--r--    1 tryabvam   tryabvam        11784 Sep 28  2019 readme.txt
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Sep 28  2019 vendor

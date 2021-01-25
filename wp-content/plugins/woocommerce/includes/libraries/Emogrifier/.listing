@@ -1,0 +1,5 @@
+drwxr-xr-x    3 tryabvam   tryabvam         4096 May 31  2019 .
+drwxr-xr-x    5 tryabvam   tryabvam         4096 May 31  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         5966 May 31  2019 CssConcatenator.php
+-rw-r--r--    1 tryabvam   tryabvam        43277 May 31  2019 CssInliner.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 31  2019 HtmlProcessor

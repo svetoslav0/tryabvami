@@ -1,0 +1,13 @@
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x   12 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         4178 Jun  3  2019 ajax-loader.gif
+-rw-r--r--    1 tryabvam   tryabvam          161 Jun  3  2019 config.rb
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 fonts
+-rw-r--r--    1 tryabvam   tryabvam         2383 Jun  3  2019 slick-theme.css
+-rw-r--r--    1 tryabvam   tryabvam         4002 Jun  3  2019 slick-theme.less
+-rw-r--r--    1 tryabvam   tryabvam         4584 Jun  3  2019 slick-theme.scss
+-rw-r--r--    1 tryabvam   tryabvam         1767 Jun  3  2019 slick.css
+-rw-r--r--    1 tryabvam   tryabvam        40072 Jun  3  2019 slick.js
+-rw-r--r--    1 tryabvam   tryabvam         1742 Jun  3  2019 slick.less
+-rw-r--r--    1 tryabvam   tryabvam        40461 Jun  3  2019 slick.min.js
+-rw-r--r--    1 tryabvam   tryabvam         1742 Jun  3  2019 slick.scss

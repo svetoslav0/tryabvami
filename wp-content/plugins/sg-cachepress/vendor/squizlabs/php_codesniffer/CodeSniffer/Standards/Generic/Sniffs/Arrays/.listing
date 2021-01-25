@@ -1,0 +1,4 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         2421 Sep 28  2019 DisallowLongArraySyntaxSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2207 Sep 28  2019 DisallowShortArraySyntaxSniff.php

@@ -1,0 +1,10 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x   10 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        10284 Jun  3  2019 category_widget.php
+-rw-r--r--    1 tryabvam   tryabvam         4381 Jun  3  2019 contact_widget.php
+-rw-r--r--    1 tryabvam   tryabvam         1279 Jun  3  2019 discount_widget.php
+-rw-r--r--    1 tryabvam   tryabvam        10006 Jun  3  2019 recent_posts_widget.php
+-rw-r--r--    1 tryabvam   tryabvam         3555 Jun  3  2019 social_widget.php
+-rw-r--r--    1 tryabvam   tryabvam         3901 Jun  3  2019 widget_ads_listing.php
+-rw-r--r--    1 tryabvam   tryabvam         5983 Jun  3  2019 widget_most_viewed.php
+-rw-r--r--    1 tryabvam   tryabvam        10451 Jun  3  2019 widget_nearby_listing.php

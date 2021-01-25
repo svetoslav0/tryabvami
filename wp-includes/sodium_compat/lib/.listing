@@ -1,0 +1,6 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 11  2019 .
+drwxr-xr-x    5 tryabvam   tryabvam         4096 May 11  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         4101 May 11  2019 constants.php
+-rw-r--r--    1 tryabvam   tryabvam         1275 May 11  2019 namespaced.php
+-rw-r--r--    1 tryabvam   tryabvam        31941 May 21  2019 php72compat.php
+-rw-r--r--    1 tryabvam   tryabvam        24458 May 21  2019 sodium_compat.php

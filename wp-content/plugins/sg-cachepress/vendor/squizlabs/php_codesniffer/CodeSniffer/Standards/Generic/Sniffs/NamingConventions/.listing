@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         8521 Sep 28  2019 CamelCapsFunctionNameSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         5070 Sep 28  2019 ConstructorNameSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         6232 Sep 28  2019 UpperCaseConstantNameSniff.php

@@ -1,0 +1,8 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x   37 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         1096 Jun  3  2019 field_editor.css
+-rw-r--r--    1 tryabvam   tryabvam          835 Jun  3  2019 field_editor.css.map
+-rw-r--r--    1 tryabvam   tryabvam         1311 Jun  3  2019 field_editor.js
+-rw-r--r--    1 tryabvam   tryabvam          573 Jun  3  2019 field_editor.min.js
+-rw-r--r--    1 tryabvam   tryabvam         3754 Jun  3  2019 field_editor.php
+-rw-r--r--    1 tryabvam   tryabvam         1340 Jun  3  2019 field_editor.scss

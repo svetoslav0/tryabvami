@@ -1,0 +1,4 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    7 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         3254 Sep 28  2019 ClosingTagSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         4002 Sep 28  2019 EndFileNewlineSniff.php

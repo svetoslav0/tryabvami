@@ -1,0 +1,14 @@
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    5 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          900 Jun  3  2019 modal_edit_element.tpl.php
+-rw-r--r--    1 tryabvam   tryabvam          934 Jun  3  2019 panel_multi_shortcode_edit_form.tpl.php
+-rw-r--r--    1 tryabvam   tryabvam         1022 Jun  3  2019 panel_shortcode_edit_form.tpl.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 shared-templates
+-rw-r--r--    1 tryabvam   tryabvam          822 Jun  3  2019 vc_ui-footer.tpl.php
+-rw-r--r--    1 tryabvam   tryabvam         1803 Jun  3  2019 vc_ui-header.tpl.php
+-rw-r--r--    1 tryabvam   tryabvam         2290 Jun  3  2019 vc_ui-panel-add-element.tpl.php
+-rw-r--r--    1 tryabvam   tryabvam         1578 Jun  3  2019 vc_ui-panel-edit-element.tpl.php
+-rw-r--r--    1 tryabvam   tryabvam         2304 Jun  3  2019 vc_ui-panel-post-settings.tpl.php
+-rw-r--r--    1 tryabvam   tryabvam         2020 Jun  3  2019 vc_ui-panel-preset.tpl.php
+-rw-r--r--    1 tryabvam   tryabvam         2257 Jun  3  2019 vc_ui-panel-row-layout.tpl.php
+-rw-r--r--    1 tryabvam   tryabvam         1906 Jun  3  2019 vc_ui-panel-templates.tpl.php

@@ -1,0 +1,11 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 31  2019 .
+drwxr-xr-x    3 tryabvam   tryabvam         4096 May 31  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          244 May 31  2019 class-wc-settings-rest-api.php
+-rw-r--r--    1 tryabvam   tryabvam         3584 May 31  2019 html-admin-page-shipping-classes.php
+-rw-r--r--    1 tryabvam   tryabvam         9879 May 31  2019 html-admin-page-shipping-zone-methods.php
+-rw-r--r--    1 tryabvam   tryabvam          486 May 31  2019 html-admin-page-shipping-zones-instance.php
+-rw-r--r--    1 tryabvam   tryabvam         6201 May 31  2019 html-admin-page-shipping-zones.php
+-rw-r--r--    1 tryabvam   tryabvam         5919 May 31  2019 html-keys-edit.php
+-rw-r--r--    1 tryabvam   tryabvam         7724 May 31  2019 html-settings-tax.php
+-rw-r--r--    1 tryabvam   tryabvam         9538 May 31  2019 html-webhooks-edit.php
+-rw-r--r--    1 tryabvam   tryabvam         4361 May 31  2019 settings-tax.php

@@ -1,0 +1,8 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   18 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         8790 Sep 28  2019 ClassDeclarationSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2582 Sep 28  2019 ClassFileNameSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3038 Sep 28  2019 DuplicatePropertySniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2594 Sep 28  2019 LowercaseClassKeywordsSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         7679 Sep 28  2019 SelfMemberReferenceSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3462 Sep 28  2019 ValidClassNameSniff.php

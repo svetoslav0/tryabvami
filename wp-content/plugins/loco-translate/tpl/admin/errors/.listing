@@ -1,0 +1,9 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x   10 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          474 Jun  3  2019 file-isdir.php
+-rw-r--r--    1 tryabvam   tryabvam          482 Jun  3  2019 file-missing.php
+-rw-r--r--    1 tryabvam   tryabvam          395 Jun  3  2019 file-sec.php
+-rw-r--r--    1 tryabvam   tryabvam          923 Jun  3  2019 generic.php
+-rw-r--r--    1 tryabvam   tryabvam          973 Jun  3  2019 no-backups.php
+-rw-r--r--    1 tryabvam   tryabvam          517 Jun  3  2019 no-locale.php
+-rw-r--r--    1 tryabvam   tryabvam          977 Jun  3  2019 no-tokenizer.php

@@ -1,0 +1,11 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x   13 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         4934 Jun  3  2019 automapper.less
+-rw-r--r--    1 tryabvam   tryabvam           96 Jun  3  2019 custom_css.less
+-rw-r--r--    1 tryabvam   tryabvam          452 Jun  3  2019 design_options.less
+-rw-r--r--    1 tryabvam   tryabvam         1091 Jun  3  2019 element_css.less
+-rw-r--r--    1 tryabvam   tryabvam          323 Jun  3  2019 general_settings.less
+-rw-r--r--    1 tryabvam   tryabvam           57 Jun  3  2019 product_license.less
+-rw-r--r--    1 tryabvam   tryabvam         1171 Jun  3  2019 tabs_ui.less
+-rw-r--r--    1 tryabvam   tryabvam          230 Jun  3  2019 user-group.less
+-rw-r--r--    1 tryabvam   tryabvam         1322 Jun  3  2019 vc_roles.less

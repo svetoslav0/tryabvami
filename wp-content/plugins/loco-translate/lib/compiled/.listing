@@ -1,0 +1,6 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          146 Jun  3  2019 README.md
+-rw-r--r--    1 tryabvam   tryabvam        50535 Jun  3  2019 gettext.php
+-rw-r--r--    1 tryabvam   tryabvam          544 Jun  3  2019 locales.php
+-rw-r--r--    1 tryabvam   tryabvam         4544 Jun  3  2019 phpunit.php

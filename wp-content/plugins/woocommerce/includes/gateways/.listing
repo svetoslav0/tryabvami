@@ -1,0 +1,8 @@
+drwxr-xr-x    6 tryabvam   tryabvam         4096 May 31  2019 .
+drwxr-xr-x   25 tryabvam   tryabvam        12288 May 31  2019 ..
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 31  2019 bacs
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 31  2019 cheque
+-rw-r--r--    1 tryabvam   tryabvam         3889 May 31  2019 class-wc-payment-gateway-cc.php
+-rw-r--r--    1 tryabvam   tryabvam         2382 May 31  2019 class-wc-payment-gateway-echeck.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 31  2019 cod
+drwxr-xr-x    4 tryabvam   tryabvam         4096 May 31  2019 paypal

@@ -1,0 +1,11 @@
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         3909 Sep 28  2019 AbstractComplexVersionSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         5993 Sep 28  2019 AbstractFunctionCallParameterSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3199 Sep 28  2019 AbstractNewFeatureSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         4576 Sep 28  2019 AbstractRemovedFeatureSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2515 Sep 28  2019 ComplexVersionInterface.php
+-rw-r--r--    1 tryabvam   tryabvam        21319 Sep 28  2019 PHPCSHelper.php
+-rw-r--r--    1 tryabvam   tryabvam        69276 Sep 28  2019 Sniff.php
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Sep 28  2019 Sniffs
+-rw-r--r--    1 tryabvam   tryabvam          206 Sep 28  2019 ruleset.xml

@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 31  2019 .
+drwxr-xr-x   12 tryabvam   tryabvam         4096 May 31  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          897 May 31  2019 error.php
+-rw-r--r--    1 tryabvam   tryabvam          893 May 31  2019 notice.php
+-rw-r--r--    1 tryabvam   tryabvam          880 May 31  2019 success.php

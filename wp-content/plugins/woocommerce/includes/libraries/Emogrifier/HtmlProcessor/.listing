@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 31  2019 .
+drwxr-xr-x    3 tryabvam   tryabvam         4096 May 31  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         6232 May 31  2019 AbstractHtmlProcessor.php
+-rw-r--r--    1 tryabvam   tryabvam        10265 May 31  2019 CssToAttributeConverter.php
+-rw-r--r--    1 tryabvam   tryabvam          469 May 31  2019 HtmlNormalizer.php

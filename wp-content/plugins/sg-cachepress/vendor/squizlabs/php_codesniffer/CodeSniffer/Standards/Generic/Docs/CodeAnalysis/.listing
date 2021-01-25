@@ -1,0 +1,10 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   16 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          549 Sep 28  2019 EmptyStatementStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          654 Sep 28  2019 ForLoopShouldBeWhileLoopStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          746 Sep 28  2019 ForLoopWithTestFunctionCallStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          675 Sep 28  2019 JumbledIncrementerStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          918 Sep 28  2019 UnconditionalIfStatementStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          631 Sep 28  2019 UnnecessaryFinalModifierStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          601 Sep 28  2019 UnusedFunctionParameterStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          707 Sep 28  2019 UselessOverridingMethodStandard.xml

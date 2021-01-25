@@ -1,0 +1,9 @@
+drwxr-xr-x    5 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    6 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         2771 Jun  3  2019 backend_editor.tpl.php
+-rw-r--r--    1 tryabvam   tryabvam         5019 Jun  3  2019 frontend_editor.tpl.php
+-rw-r--r--    1 tryabvam   tryabvam          517 Jun  3  2019 frontend_template.tpl.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 navbar
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 partials
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Jun  3  2019 popups
+-rw-r--r--    1 tryabvam   tryabvam         3496 Jun  3  2019 vc_ui-template-preview.tpl.php

@@ -1,0 +1,10 @@
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          844 Sep 28  2019 .gitattributes
+-rw-r--r--    1 tryabvam   tryabvam           70 Sep 28  2019 .gitignore
+-rw-r--r--    1 tryabvam   tryabvam       121825 Sep 28  2019 CHANGELOG.md
+-rw-r--r--    1 tryabvam   tryabvam         7651 Sep 28  2019 LICENSE
+-rw-r--r--    1 tryabvam   tryabvam         3104 Sep 28  2019 PHPCSAliases.php
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Sep 28  2019 PHPCompatibility
+-rw-r--r--    1 tryabvam   tryabvam        14199 Sep 28  2019 README.md
+-rw-r--r--    1 tryabvam   tryabvam         1388 Sep 28  2019 composer.json

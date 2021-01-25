@@ -1,0 +1,4 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         4433 Sep 28  2019 DuplicateClassNameSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         5363 Sep 28  2019 OpeningBraceSameLineSniff.php

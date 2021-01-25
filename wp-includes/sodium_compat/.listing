@@ -1,0 +1,8 @@
+drwxr-xr-x    5 tryabvam   tryabvam         4096 May 11  2019 .
+drwxr-xr-x   20 tryabvam   tryabvam        12288 Nov 16  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          918 May 21  2019 LICENSE
+-rw-r--r--    1 tryabvam   tryabvam         1647 May 11  2019 autoload.php
+-rw-r--r--    1 tryabvam   tryabvam         1554 May 21  2019 composer.json
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 11  2019 lib
+drwxr-xr-x    3 tryabvam   tryabvam         4096 May 11  2019 namespaced
+drwxr-xr-x    4 tryabvam   tryabvam         4096 May 11  2019 src

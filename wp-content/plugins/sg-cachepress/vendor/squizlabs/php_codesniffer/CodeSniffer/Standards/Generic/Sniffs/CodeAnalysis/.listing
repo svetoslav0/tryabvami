@@ -1,0 +1,10 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         2923 Sep 28  2019 EmptyStatementSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2873 Sep 28  2019 ForLoopShouldBeWhileLoopSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3199 Sep 28  2019 ForLoopWithTestFunctionCallSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         4216 Sep 28  2019 JumbledIncrementerSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2889 Sep 28  2019 UnconditionalIfStatementSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2746 Sep 28  2019 UnnecessaryFinalModifierSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         7046 Sep 28  2019 UnusedFunctionParameterSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         5607 Sep 28  2019 UselessOverridingMethodSniff.php

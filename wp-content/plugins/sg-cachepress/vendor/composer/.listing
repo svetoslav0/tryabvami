@@ -1,0 +1,11 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    9 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        13420 Sep 28  2019 ClassLoader.php
+-rw-r--r--    1 tryabvam   tryabvam         1070 Sep 28  2019 LICENSE
+-rw-r--r--    1 tryabvam   tryabvam        40911 Sep 28  2019 autoload_classmap.php
+-rw-r--r--    1 tryabvam   tryabvam          221 Sep 28  2019 autoload_files.php
+-rw-r--r--    1 tryabvam   tryabvam          149 Sep 28  2019 autoload_namespaces.php
+-rw-r--r--    1 tryabvam   tryabvam          451 Sep 28  2019 autoload_psr4.php
+-rw-r--r--    1 tryabvam   tryabvam         2414 Sep 28  2019 autoload_real.php
+-rw-r--r--    1 tryabvam   tryabvam        44700 Sep 28  2019 autoload_static.php
+-rw-r--r--    1 tryabvam   tryabvam         9109 Sep 28  2019 installed.json

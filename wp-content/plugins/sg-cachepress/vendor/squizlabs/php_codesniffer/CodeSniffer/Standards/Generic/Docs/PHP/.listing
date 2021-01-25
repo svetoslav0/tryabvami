@@ -1,0 +1,14 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   16 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          191 Sep 28  2019 BacktickOperatorStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          545 Sep 28  2019 CharacterBeforePHPOpeningTagStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          530 Sep 28  2019 ClosingPHPTagStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          495 Sep 28  2019 DeprecatedFunctionsStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          341 Sep 28  2019 DisallowAlternativePHPTagsStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          271 Sep 28  2019 DisallowShortOpenTagStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          498 Sep 28  2019 ForbiddenFunctionsStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          609 Sep 28  2019 LowerCaseConstantStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          468 Sep 28  2019 LowerCaseKeywordStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          547 Sep 28  2019 NoSilencedErrorsStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          555 Sep 28  2019 SAPIUsageStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          609 Sep 28  2019 UpperCaseConstantStandard.xml

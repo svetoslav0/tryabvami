@@ -1,0 +1,10 @@
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    9 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        26419 Sep 28  2019 backup.php
+-rw-r--r--    1 tryabvam   tryabvam         1488 Sep 28  2019 contribute.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 images
+-rw-r--r--    1 tryabvam   tryabvam          856 Sep 28  2019 logs.php
+-rw-r--r--    1 tryabvam   tryabvam         3071 Sep 28  2019 root.php
+-rw-r--r--    1 tryabvam   tryabvam         2333 Sep 28  2019 settings.php
+-rw-r--r--    1 tryabvam   tryabvam         7366 Sep 28  2019 shortcode_docs.php
+-rw-r--r--    1 tryabvam   tryabvam         1530 Sep 28  2019 system_properties.php

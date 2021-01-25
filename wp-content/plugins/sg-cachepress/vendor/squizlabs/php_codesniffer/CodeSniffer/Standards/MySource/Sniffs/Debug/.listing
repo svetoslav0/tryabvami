@@ -1,0 +1,4 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    9 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         2058 Sep 28  2019 DebugCodeSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2182 Sep 28  2019 FirebugConsoleSniff.php

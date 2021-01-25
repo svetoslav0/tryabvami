@@ -1,0 +1,7 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    7 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         1303 Jun  3  2019 BaseController.php
+-rw-r--r--    1 tryabvam   tryabvam         5894 Jun  3  2019 DebugController.php
+-rw-r--r--    1 tryabvam   tryabvam         1589 Jun  3  2019 PrefsController.php
+-rw-r--r--    1 tryabvam   tryabvam         2809 Jun  3  2019 SettingsController.php
+-rw-r--r--    1 tryabvam   tryabvam         1892 Jun  3  2019 VersionController.php

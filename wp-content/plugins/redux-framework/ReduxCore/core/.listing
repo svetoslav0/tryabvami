@@ -1,0 +1,7 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    7 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         1255 Jun  3  2019 dashboard.php
+-rw-r--r--    1 tryabvam   tryabvam        23510 Jun  3  2019 enqueue.php
+-rw-r--r--    1 tryabvam   tryabvam         5163 Jun  3  2019 newsflash.php
+-rw-r--r--    1 tryabvam   tryabvam        14768 Jun  3  2019 panel.php
+-rw-r--r--    1 tryabvam   tryabvam          398 Jun  3  2019 required.php

@@ -1,0 +1,10 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   23 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         9262 Sep 28  2019 Supercacher.php
+-rw-r--r--    1 tryabvam   tryabvam         1143 Sep 28  2019 Supercacher_Comments.php
+-rw-r--r--    1 tryabvam   tryabvam         2929 Sep 28  2019 Supercacher_Helper.php
+-rw-r--r--    1 tryabvam   tryabvam          534 Sep 28  2019 Supercacher_Plugins.php
+-rw-r--r--    1 tryabvam   tryabvam         2087 Sep 28  2019 Supercacher_Postmeta.php
+-rw-r--r--    1 tryabvam   tryabvam         2829 Sep 28  2019 Supercacher_Posts.php
+-rw-r--r--    1 tryabvam   tryabvam         1725 Sep 28  2019 Supercacher_Terms.php
+-rw-r--r--    1 tryabvam   tryabvam          435 Sep 28  2019 Supercacher_Themes.php

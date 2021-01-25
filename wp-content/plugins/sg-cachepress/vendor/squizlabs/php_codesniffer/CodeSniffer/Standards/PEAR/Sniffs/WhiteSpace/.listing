@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   10 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         6791 Sep 28  2019 ObjectOperatorIndentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         6890 Sep 28  2019 ScopeClosingBraceSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         1485 Sep 28  2019 ScopeIndentSniff.php

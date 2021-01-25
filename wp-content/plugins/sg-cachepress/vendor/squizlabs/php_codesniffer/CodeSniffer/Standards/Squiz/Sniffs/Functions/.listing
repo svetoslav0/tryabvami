@@ -1,0 +1,8 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   18 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        18377 Sep 28  2019 FunctionDeclarationArgumentSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         1621 Sep 28  2019 FunctionDeclarationSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2560 Sep 28  2019 FunctionDuplicateArgumentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2315 Sep 28  2019 GlobalFunctionSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2367 Sep 28  2019 LowercaseFunctionKeywordsSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         8864 Sep 28  2019 MultiLineFunctionDeclarationSniff.php

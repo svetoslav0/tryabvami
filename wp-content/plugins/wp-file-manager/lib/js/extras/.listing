@@ -1,0 +1,7 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    5 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        87590 Sep 28  2019 editors.default.js
+-rw-r--r--    1 tryabvam   tryabvam        48081 Sep 28  2019 editors.default.min.js
+-rw-r--r--    1 tryabvam   tryabvam       223811 Sep 28  2019 encoding-japanese.min.js
+-rw-r--r--    1 tryabvam   tryabvam         2291 Sep 28  2019 quicklook.googledocs.js
+-rw-r--r--    1 tryabvam   tryabvam         1561 Sep 28  2019 quicklook.googledocs.min.js

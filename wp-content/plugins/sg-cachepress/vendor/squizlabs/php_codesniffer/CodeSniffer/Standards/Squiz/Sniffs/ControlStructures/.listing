@@ -1,0 +1,9 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   18 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        10684 Sep 28  2019 ControlSignatureSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2048 Sep 28  2019 ElseIfDeclarationSniff.php
+-rw-r--r--    1 tryabvam   tryabvam        10531 Sep 28  2019 ForEachLoopDeclarationSniff.php
+-rw-r--r--    1 tryabvam   tryabvam        10004 Sep 28  2019 ForLoopDeclarationSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         7366 Sep 28  2019 InlineIfDeclarationSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2636 Sep 28  2019 LowercaseDeclarationSniff.php
+-rw-r--r--    1 tryabvam   tryabvam        14348 Sep 28  2019 SwitchDeclarationSniff.php

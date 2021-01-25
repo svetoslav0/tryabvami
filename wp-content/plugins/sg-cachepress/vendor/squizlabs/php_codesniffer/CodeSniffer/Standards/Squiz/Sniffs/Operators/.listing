@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   18 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         8713 Sep 28  2019 ComparisonOperatorUsageSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         8544 Sep 28  2019 IncrementDecrementUsageSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2465 Sep 28  2019 ValidLogicalOperatorsSniff.php

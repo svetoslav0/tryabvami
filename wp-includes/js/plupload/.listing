@@ -1,0 +1,11 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Mar 21  2019 .
+drwxr-xr-x   13 tryabvam   tryabvam         4096 May 11  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        16189 May 16  2017 handlers.js
+-rw-r--r--    1 tryabvam   tryabvam        10551 May 16  2017 handlers.min.js
+-rw-r--r--    1 tryabvam   tryabvam        17987 Jul 29  2011 license.txt
+-rw-r--r--    1 tryabvam   tryabvam       254084 Sep 23  2017 moxie.js
+-rw-r--r--    1 tryabvam   tryabvam        89142 Sep 23  2017 moxie.min.js
+-rw-r--r--    1 tryabvam   tryabvam        60314 Sep  1  2017 plupload.js
+-rw-r--r--    1 tryabvam   tryabvam        15742 Sep 23  2017 plupload.min.js
+-rw-r--r--    1 tryabvam   tryabvam        12806 Dec 15  2017 wp-plupload.js
+-rw-r--r--    1 tryabvam   tryabvam         4920 Nov  3  2016 wp-plupload.min.js

@@ -1,0 +1,7 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         3486 Sep 28  2019 DisallowMultipleStatementsSniff.php
+-rw-r--r--    1 tryabvam   tryabvam        12202 Sep 28  2019 MultipleStatementAlignmentSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2132 Sep 28  2019 NoSpaceAfterCastSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2689 Sep 28  2019 SpaceAfterCastSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2576 Sep 28  2019 SpaceAfterNotSniff.php

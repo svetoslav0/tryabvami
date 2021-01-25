@@ -1,0 +1,15 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         1830 Sep 28  2019 BacktickOperatorSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2166 Sep 28  2019 CharacterBeforePHPOpeningTagSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         1779 Sep 28  2019 ClosingPHPTagSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2993 Sep 28  2019 DeprecatedFunctionsSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         9670 Sep 28  2019 DisallowAlternativePHPTagsSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         6184 Sep 28  2019 DisallowShortOpenTagSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         7854 Sep 28  2019 ForbiddenFunctionsSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2999 Sep 28  2019 LowerCaseConstantSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         4279 Sep 28  2019 LowerCaseKeywordSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2099 Sep 28  2019 NoSilencedErrorsSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2380 Sep 28  2019 SAPIUsageSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2960 Sep 28  2019 SyntaxSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2747 Sep 28  2019 UpperCaseConstantSniff.php

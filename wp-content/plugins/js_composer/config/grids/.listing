@@ -1,0 +1,8 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x   11 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        42288 Jun  3  2019 class-vc-grids-common.php
+-rw-r--r--    1 tryabvam   tryabvam          434 Jun  3  2019 shortcode-vc-basic-grid.php
+-rw-r--r--    1 tryabvam   tryabvam          466 Jun  3  2019 shortcode-vc-masonry-grid.php
+-rw-r--r--    1 tryabvam   tryabvam          487 Jun  3  2019 shortcode-vc-masonry-media-grid.php
+-rw-r--r--    1 tryabvam   tryabvam          434 Jun  3  2019 shortcode-vc-media-grid.php
+-rw-r--r--    1 tryabvam   tryabvam         4058 Jun  3  2019 vc-grids-functions.php

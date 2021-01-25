@@ -1,0 +1,9 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          391 Jun  3  2019 CtypeExtension.php
+-rw-r--r--    1 tryabvam   tryabvam          939 Jun  3  2019 Failure.php
+-rw-r--r--    1 tryabvam   tryabvam          812 Jun  3  2019 JsonExtension.php
+-rw-r--r--    1 tryabvam   tryabvam          577 Jun  3  2019 JsonSerializable.php
+-rw-r--r--    1 tryabvam   tryabvam         1949 Jun  3  2019 MbstringExtension.php
+-rw-r--r--    1 tryabvam   tryabvam         3126 Jun  3  2019 PosixExtension.php
+-rw-r--r--    1 tryabvam   tryabvam          551 Jun  3  2019 TokenizerExtension.php

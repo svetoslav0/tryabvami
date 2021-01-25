@@ -1,0 +1,6 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         5521 Sep 28  2019 CallTimePassByReferenceSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         7779 Sep 28  2019 FunctionCallArgumentSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         6910 Sep 28  2019 OpeningFunctionBraceBsdAllmanSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         6656 Sep 28  2019 OpeningFunctionBraceKernighanRitchieSniff.php

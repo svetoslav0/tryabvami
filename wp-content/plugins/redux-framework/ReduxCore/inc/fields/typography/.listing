@@ -1,0 +1,12 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x   37 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         4624 Jun  3  2019 field_typography.css
+-rw-r--r--    1 tryabvam   tryabvam         3577 Jun  3  2019 field_typography.css.map
+-rw-r--r--    1 tryabvam   tryabvam        28654 Jun  3  2019 field_typography.js
+-rw-r--r--    1 tryabvam   tryabvam        58917 Jun  3  2019 field_typography.json
+-rw-r--r--    1 tryabvam   tryabvam        10406 Jun  3  2019 field_typography.min.js
+-rw-r--r--    1 tryabvam   tryabvam        56803 Jun  3  2019 field_typography.php
+-rw-r--r--    1 tryabvam   tryabvam         6617 Jun  3  2019 field_typography.scss
+-rw-r--r--    1 tryabvam   tryabvam        28852 Jun  3  2019 field_typography_json.js
+-rw-r--r--    1 tryabvam   tryabvam        10765 Jun  3  2019 field_typography_json.min.js
+-rw-r--r--    1 tryabvam   tryabvam       187840 Jun  3  2019 googlefonts.php

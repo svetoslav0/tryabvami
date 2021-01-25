@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   16 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          174 Sep 28  2019 DisallowSpaceIndentStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          172 Sep 28  2019 DisallowTabIndentStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          582 Sep 28  2019 ScopeIndentStandard.xml

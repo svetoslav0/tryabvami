@@ -1,0 +1,5 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   10 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          995 Sep 28  2019 ObjectOperatorIndentStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          577 Sep 28  2019 ScopeClosingBraceStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          682 Sep 28  2019 ScopeIndentStandard.xml

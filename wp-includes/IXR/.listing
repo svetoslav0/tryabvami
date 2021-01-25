@@ -1,0 +1,13 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 10  2019 .
+drwxr-xr-x   20 tryabvam   tryabvam        12288 Nov 16  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          414 Aug 27  2016 class-IXR-base64.php
+-rw-r--r--    1 tryabvam   tryabvam         4643 Aug 27  2016 class-IXR-client.php
+-rw-r--r--    1 tryabvam   tryabvam          963 Aug 27  2016 class-IXR-clientmulticall.php
+-rw-r--r--    1 tryabvam   tryabvam         1679 Aug 27  2016 class-IXR-date.php
+-rw-r--r--    1 tryabvam   tryabvam          854 Aug 27  2016 class-IXR-error.php
+-rw-r--r--    1 tryabvam   tryabvam         5323 Aug 27  2016 class-IXR-introspectionserver.php
+-rw-r--r--    1 tryabvam   tryabvam         8071 May 11  2019 class-IXR-message.php
+-rw-r--r--    1 tryabvam   tryabvam          927 Aug 27  2016 class-IXR-request.php
+-rw-r--r--    1 tryabvam   tryabvam         6930 Aug 27  2016 class-IXR-server.php
+-rw-r--r--    1 tryabvam   tryabvam         3790 Aug 27  2016 class-IXR-value.php
+-rw-r--r--    1 tryabvam   tryabvam          165 Nov 22 14:29 error_log

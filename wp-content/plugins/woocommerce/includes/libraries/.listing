@@ -1,0 +1,9 @@
+drwxr-xr-x    5 tryabvam   tryabvam         4096 May 31  2019 .
+drwxr-xr-x   25 tryabvam   tryabvam        12288 May 31  2019 ..
+drwxr-xr-x    3 tryabvam   tryabvam         4096 May 31  2019 Emogrifier
+drwxr-xr-x    5 tryabvam   tryabvam         4096 May 31  2019 action-scheduler
+-rw-r--r--    1 tryabvam   tryabvam        66606 May 31  2019 class-emogrifier.php
+-rw-r--r--    1 tryabvam   tryabvam        13382 May 31  2019 class-wc-eval-math.php
+drwxr-xr-x    3 tryabvam   tryabvam         4096 May 31  2019 geolite2
+-rw-r--r--    1 tryabvam   tryabvam         2724 May 31  2019 wp-async-request.php
+-rw-r--r--    1 tryabvam   tryabvam        10402 May 31  2019 wp-background-process.php

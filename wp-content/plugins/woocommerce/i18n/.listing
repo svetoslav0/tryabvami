@@ -1,0 +1,9 @@
+drwxr-xr-x    4 tryabvam   tryabvam         4096 May 31  2019 .
+drwxr-xr-x    7 tryabvam   tryabvam         4096 May 31  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         3111 May 31  2019 continents.php
+-rw-r--r--    1 tryabvam   tryabvam        11180 May 31  2019 countries.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 31  2019 languages
+-rw-r--r--    1 tryabvam   tryabvam        22424 May 31  2019 locale-info.php
+-rw-r--r--    1 tryabvam   tryabvam         4415 May 31  2019 phone.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 31  2019 states
+-rw-r--r--    1 tryabvam   tryabvam        58878 May 31  2019 states.php

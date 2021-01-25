@@ -1,0 +1,7 @@
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    5 tryabvam   tryabvam         4096 Jun  3  2019 ..
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 media
+-rw-r--r--    1 tryabvam   tryabvam        71034 Jun  3  2019 redux.js
+-rw-r--r--    1 tryabvam   tryabvam        40848 Jun  3  2019 redux.min.js
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Jun  3  2019 vendor
+-rw-r--r--    1 tryabvam   tryabvam        10252 Jun  3  2019 vendor.min.js

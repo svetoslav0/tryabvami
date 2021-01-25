@@ -1,0 +1,7 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        12287 Jun  3  2019 Data.php
+-rw-r--r--    1 tryabvam   tryabvam         5553 Jun  3  2019 Extraction.php
+-rw-r--r--    1 tryabvam   tryabvam         6602 Jun  3  2019 Metadata.php
+-rw-r--r--    1 tryabvam   tryabvam         3016 Jun  3  2019 SearchPaths.php
+-rw-r--r--    1 tryabvam   tryabvam         2842 Jun  3  2019 WordCount.php

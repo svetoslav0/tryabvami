@@ -1,0 +1,9 @@
+
+[10-Nov-2020 02:26:03 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/tryabvam/public_html/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tryabvam/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[08-Dec-2020 00:16:51 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/tryabvam/public_html/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tryabvam/public_html/wp-includes/ID3/module.audio-video.asf.php on line 17

@@ -1,0 +1,17 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   18 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         2402 Sep 28  2019 CastSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam        11935 Sep 28  2019 ControlStructureSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         6950 Sep 28  2019 FunctionClosingBraceSpaceSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3587 Sep 28  2019 FunctionOpeningBraceSpaceSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         8969 Sep 28  2019 FunctionSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3486 Sep 28  2019 LanguageConstructSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         4258 Sep 28  2019 LogicalOperatorSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         6348 Sep 28  2019 MemberVarSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         5128 Sep 28  2019 ObjectOperatorSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam        12984 Sep 28  2019 OperatorSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2937 Sep 28  2019 PropertyLabelSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         4242 Sep 28  2019 ScopeClosingBraceSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3019 Sep 28  2019 ScopeKeywordSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3303 Sep 28  2019 SemicolonSpacingSniff.php
+-rw-r--r--    1 tryabvam   tryabvam        10368 Sep 28  2019 SuperfluousWhitespaceSniff.php

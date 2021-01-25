@@ -1,0 +1,6 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    9 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         4986 Sep 28  2019 DisallowSelfActionsSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         3410 Sep 28  2019 IncludeOwnSystemSniff.php
+-rw-r--r--    1 tryabvam   tryabvam        14212 Sep 28  2019 IncludeSystemSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         5635 Sep 28  2019 UnusedSystemSniff.php

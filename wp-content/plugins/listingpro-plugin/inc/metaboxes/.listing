@@ -1,0 +1,8 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    9 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         5053 Jun  3  2019 category-meta.php
+-rw-r--r--    1 tryabvam   tryabvam         3925 Jun  3  2019 features-meta.php
+-rw-r--r--    1 tryabvam   tryabvam         3910 Jun  3  2019 location-meta.php
+-rw-r--r--    1 tryabvam   tryabvam        30840 Jun  3  2019 metaboxes.php
+-rw-r--r--    1 tryabvam   tryabvam        23713 Jun  3  2019 post-options.php
+-rw-r--r--    1 tryabvam   tryabvam        14180 Jun  3  2019 post-type.php

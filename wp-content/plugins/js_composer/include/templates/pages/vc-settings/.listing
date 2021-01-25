@@ -1,0 +1,7 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    5 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         1567 Jun  3  2019 default-template-post-type.tpl.php
+-rw-r--r--    1 tryabvam   tryabvam          412 Jun  3  2019 index.php
+-rw-r--r--    1 tryabvam   tryabvam         3506 Jun  3  2019 tab-vc-roles.php
+-rw-r--r--    1 tryabvam   tryabvam         4899 Jun  3  2019 tab.php
+-rw-r--r--    1 tryabvam   tryabvam          425 Jun  3  2019 vc-automapper.php

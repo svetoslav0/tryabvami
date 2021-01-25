@@ -1,0 +1,10 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    5 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam        12398 Jun  3  2019 vc_tta-colors.less
+-rw-r--r--    1 tryabvam   tryabvam        18003 Jun  3  2019 vc_tta-core.less
+-rw-r--r--    1 tryabvam   tryabvam         4146 Jun  3  2019 vc_tta-frontend-editor.less
+-rw-r--r--    1 tryabvam   tryabvam         4623 Jun  3  2019 vc_tta-icon-controls.less
+-rw-r--r--    1 tryabvam   tryabvam        11707 Jun  3  2019 vc_tta-mixins.less
+-rw-r--r--    1 tryabvam   tryabvam        22792 Jun  3  2019 vc_tta-options.less
+-rw-r--r--    1 tryabvam   tryabvam          269 Jun  3  2019 vc_tta-pagination.less
+-rw-r--r--    1 tryabvam   tryabvam         6907 Jun  3  2019 vc_tta-variables.less

@@ -1,0 +1,2 @@
+
+[10-Dec-2020 06:50:24 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/tryabvam/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

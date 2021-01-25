@@ -1,0 +1,14 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    5 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         2453 Sep 28  2019 README.md
+-rw-r--r--    1 tryabvam   tryabvam         1047 Sep 28  2019 contextmenu.css
+-rw-r--r--    1 tryabvam   tryabvam         2437 Sep 28  2019 dialog.css
+-rw-r--r--    1 tryabvam   tryabvam         2143 Sep 28  2019 icons.css
+-rw-r--r--    1 tryabvam   tryabvam          908 Sep 28  2019 main.css
+-rw-r--r--    1 tryabvam   tryabvam         1848 Sep 28  2019 navbar.css
+-rw-r--r--    1 tryabvam   tryabvam         5089 Sep 28  2019 reset.css
+-rw-r--r--    1 tryabvam   tryabvam          545 Sep 28  2019 statusbar.css
+-rw-r--r--    1 tryabvam   tryabvam          876 Sep 28  2019 theme.css
+-rw-r--r--    1 tryabvam   tryabvam        10032 Sep 28  2019 toolbar.css
+-rw-r--r--    1 tryabvam   tryabvam         2383 Sep 28  2019 view-list.css
+-rw-r--r--    1 tryabvam   tryabvam         2329 Sep 28  2019 view-thumbnail.css

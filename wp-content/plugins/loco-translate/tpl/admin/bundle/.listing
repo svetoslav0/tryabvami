@@ -1,0 +1,11 @@
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x   10 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          714 Jun  3  2019 alias.php
+-rw-r--r--    1 tryabvam   tryabvam        10008 Jun  3  2019 conf.php
+-rw-r--r--    1 tryabvam   tryabvam          799 Jun  3  2019 debug.php
+-rw-r--r--    1 tryabvam   tryabvam          362 Jun  3  2019 inc-po-links.php
+-rw-r--r--    1 tryabvam   tryabvam         4844 Jun  3  2019 inc-po-table.php
+-rw-r--r--    1 tryabvam   tryabvam         5153 Jun  3  2019 locale.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 setup
+-rw-r--r--    1 tryabvam   tryabvam          513 Jun  3  2019 setup.php
+-rw-r--r--    1 tryabvam   tryabvam         2268 Jun  3  2019 view.php

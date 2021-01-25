@@ -1,0 +1,13 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 11  2019 .
+drwxr-xr-x   20 tryabvam   tryabvam        12288 Nov 16  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         3321 Dec 18  2018 archives.php
+-rw-r--r--    1 tryabvam   tryabvam          859 Dec 19  2018 block.php
+-rw-r--r--    1 tryabvam   tryabvam         1985 May 11  2019 calendar.php
+-rw-r--r--    1 tryabvam   tryabvam         2593 Dec 19  2018 categories.php
+-rw-r--r--    1 tryabvam   tryabvam          808 Oct 24 20:48 error_log
+-rw-r--r--    1 tryabvam   tryabvam         5551 May 11  2019 latest-comments.php
+-rw-r--r--    1 tryabvam   tryabvam         3102 May 11  2019 latest-posts.php
+-rw-r--r--    1 tryabvam   tryabvam         3946 Jun 11  2020 rss.php
+-rw-r--r--    1 tryabvam   tryabvam         1870 Jun 11  2020 search.php
+-rw-r--r--    1 tryabvam   tryabvam          678 Dec 18  2018 shortcode.php
+-rw-r--r--    1 tryabvam   tryabvam         1504 May 11  2019 tag-cloud.php

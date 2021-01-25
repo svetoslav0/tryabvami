@@ -1,0 +1,8 @@
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    5 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam       562916 Jun  3  2019 VC Icons.json
+-rw-r--r--    1 tryabvam   tryabvam          362 Jun  3  2019 aliases.less
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 fonts
+-rw-r--r--    1 tryabvam   tryabvam          105 Jun  3  2019 init.less
+-rw-r--r--    1 tryabvam   tryabvam         4163 Jun  3  2019 style.less
+-rw-r--r--    1 tryabvam   tryabvam         1446 Jun  3  2019 variables.less

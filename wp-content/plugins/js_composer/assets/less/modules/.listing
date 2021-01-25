@@ -1,0 +1,16 @@
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x   13 tryabvam   tryabvam         4096 Jun  3  2019 ..
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Jun  3  2019 ui
+-rw-r--r--    1 tryabvam   tryabvam         3763 Jun  3  2019 vc_buttons.less
+-rw-r--r--    1 tryabvam   tryabvam          989 Jun  3  2019 vc_fullscreen.less
+-rw-r--r--    1 tryabvam   tryabvam          734 Jun  3  2019 vc_helper.less
+-rw-r--r--    1 tryabvam   tryabvam          864 Jun  3  2019 vc_messages.less
+-rw-r--r--    1 tryabvam   tryabvam         1776 Jun  3  2019 vc_modals.less
+-rw-r--r--    1 tryabvam   tryabvam         6189 Jun  3  2019 vc_navbar.less
+-rw-r--r--    1 tryabvam   tryabvam         4946 Jun  3  2019 vc_panels.less
+-rw-r--r--    1 tryabvam   tryabvam          529 Jun  3  2019 vc_placeholder.less
+-rw-r--r--    1 tryabvam   tryabvam          456 Jun  3  2019 vc_preloader.less
+-rw-r--r--    1 tryabvam   tryabvam         2193 Jun  3  2019 vc_switcher.less
+-rw-r--r--    1 tryabvam   tryabvam           95 Jun  3  2019 vc_table.less
+-rw-r--r--    1 tryabvam   tryabvam         3413 Jun  3  2019 vc_teaser_box.less
+-rw-r--r--    1 tryabvam   tryabvam         2473 Jun  3  2019 vc_welcome.less

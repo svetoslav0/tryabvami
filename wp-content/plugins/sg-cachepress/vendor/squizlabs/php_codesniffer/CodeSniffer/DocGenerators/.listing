@@ -1,0 +1,6 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    6 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         5606 Sep 28  2019 Generator.php
+-rw-r--r--    1 tryabvam   tryabvam         9525 Sep 28  2019 HTML.php
+-rw-r--r--    1 tryabvam   tryabvam         5150 Sep 28  2019 Markdown.php
+-rw-r--r--    1 tryabvam   tryabvam         8855 Sep 28  2019 Text.php

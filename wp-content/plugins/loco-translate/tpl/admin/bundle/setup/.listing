@@ -1,0 +1,10 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          606 Jun  3  2019 author.php
+-rw-r--r--    1 tryabvam   tryabvam         3317 Jun  3  2019 conf.php
+-rw-r--r--    1 tryabvam   tryabvam          728 Jun  3  2019 core.php
+-rw-r--r--    1 tryabvam   tryabvam         1014 Jun  3  2019 inc-nav.php
+-rw-r--r--    1 tryabvam   tryabvam          656 Jun  3  2019 meta.php
+-rw-r--r--    1 tryabvam   tryabvam          569 Jun  3  2019 none.php
+-rw-r--r--    1 tryabvam   tryabvam          551 Jun  3  2019 partial.php
+-rw-r--r--    1 tryabvam   tryabvam          924 Jun  3  2019 saved.php

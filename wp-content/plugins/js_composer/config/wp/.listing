@@ -1,0 +1,15 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x   11 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         1598 Jun  3  2019 shortcode-vc-wp-archives.php
+-rw-r--r--    1 tryabvam   tryabvam         1219 Jun  3  2019 shortcode-vc-wp-calendar.php
+-rw-r--r--    1 tryabvam   tryabvam         1662 Jun  3  2019 shortcode-vc-wp-categories.php
+-rw-r--r--    1 tryabvam   tryabvam         2089 Jun  3  2019 shortcode-vc-wp-custommenu.php
+-rw-r--r--    1 tryabvam   tryabvam         2551 Jun  3  2019 shortcode-vc-wp-links.php
+-rw-r--r--    1 tryabvam   tryabvam         1252 Jun  3  2019 shortcode-vc-wp-meta.php
+-rw-r--r--    1 tryabvam   tryabvam         1889 Jun  3  2019 shortcode-vc-wp-pages.php
+-rw-r--r--    1 tryabvam   tryabvam         1775 Jun  3  2019 shortcode-vc-wp-posts.php
+-rw-r--r--    1 tryabvam   tryabvam         1517 Jun  3  2019 shortcode-vc-wp-recentcomments.php
+-rw-r--r--    1 tryabvam   tryabvam         2293 Jun  3  2019 shortcode-vc-wp-rss.php
+-rw-r--r--    1 tryabvam   tryabvam         1212 Jun  3  2019 shortcode-vc-wp-search.php
+-rw-r--r--    1 tryabvam   tryabvam         2033 Jun  3  2019 shortcode-vc-wp-tagcloud.php
+-rw-r--r--    1 tryabvam   tryabvam         1344 Jun  3  2019 shortcode-vc-wp-text.php

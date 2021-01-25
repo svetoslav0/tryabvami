@@ -1,0 +1,8 @@
+drwxr-xr-x    3 tryabvam   tryabvam         4096 May 31  2019 .
+drwxr-xr-x   25 tryabvam   tryabvam        12288 May 31  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         4101 May 31  2019 class-wc-site-tracking.php
+-rw-r--r--    1 tryabvam   tryabvam         4819 May 31  2019 class-wc-tracks-client.php
+-rw-r--r--    1 tryabvam   tryabvam         3667 May 31  2019 class-wc-tracks-event.php
+-rw-r--r--    1 tryabvam   tryabvam         2163 May 31  2019 class-wc-tracks-footer-pixel.php
+-rw-r--r--    1 tryabvam   tryabvam         3325 May 31  2019 class-wc-tracks.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 31  2019 events

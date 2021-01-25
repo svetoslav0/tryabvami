@@ -1,0 +1,12 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         3014 Sep 28  2019 ByteOrderMarkSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2811 Sep 28  2019 EndFileNewlineSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2768 Sep 28  2019 EndFileNoNewlineSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         1970 Sep 28  2019 InlineHTMLSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         4693 Sep 28  2019 LineEndingsSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         5823 Sep 28  2019 LineLengthSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         2333 Sep 28  2019 LowercasedFilenameSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         1776 Sep 28  2019 OneClassPerFileSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         1808 Sep 28  2019 OneInterfacePerFileSniff.php
+-rw-r--r--    1 tryabvam   tryabvam         1792 Sep 28  2019 OneTraitPerFileSniff.php

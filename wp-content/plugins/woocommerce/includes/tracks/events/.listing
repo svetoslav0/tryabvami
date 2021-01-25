@@ -1,0 +1,8 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 May 31  2019 .
+drwxr-xr-x    3 tryabvam   tryabvam         4096 May 31  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         8696 May 31  2019 class-wc-admin-setup-wizard-tracking.php
+-rw-r--r--    1 tryabvam   tryabvam         2519 May 31  2019 class-wc-extensions-tracking.php
+-rw-r--r--    1 tryabvam   tryabvam         2275 May 31  2019 class-wc-importer-tracking.php
+-rw-r--r--    1 tryabvam   tryabvam         1774 May 31  2019 class-wc-orders-tracking.php
+-rw-r--r--    1 tryabvam   tryabvam         2427 May 31  2019 class-wc-products-tracking.php
+-rw-r--r--    1 tryabvam   tryabvam         3136 May 31  2019 class-wc-settings-tracking.php

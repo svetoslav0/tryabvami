@@ -1,0 +1,14 @@
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          522 Sep 28  2019 .gitattributes
+-rw-r--r--    1 tryabvam   tryabvam           73 Sep 28  2019 .gitignore
+-rw-r--r--    1 tryabvam   tryabvam          679 Sep 28  2019 CONTRIBUTING.md
+drwxr-xr-x    6 tryabvam   tryabvam         4096 Sep 28  2019 CodeSniffer
+-rw-r--r--    1 tryabvam   tryabvam          155 Sep 28  2019 CodeSniffer.conf
+-rw-r--r--    1 tryabvam   tryabvam          187 Sep 28  2019 CodeSniffer.conf.dist
+-rw-r--r--    1 tryabvam   tryabvam        88344 Sep 28  2019 CodeSniffer.php
+-rw-r--r--    1 tryabvam   tryabvam         3709 Sep 28  2019 README.md
+-rw-r--r--    1 tryabvam   tryabvam         2180 Sep 28  2019 composer.json
+-rw-r--r--    1 tryabvam   tryabvam         1533 Sep 28  2019 licence.txt
+-rw-r--r--    1 tryabvam   tryabvam          310 Sep 28  2019 phpcs.xml.dist
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 scripts

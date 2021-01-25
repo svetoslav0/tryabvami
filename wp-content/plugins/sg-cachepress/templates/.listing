@@ -1,0 +1,7 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    9 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         2394 Sep 28  2019 browser-caching.tpl
+-rw-r--r--    1 tryabvam   tryabvam         1194 Sep 28  2019 gzip.tpl
+-rw-r--r--    1 tryabvam   tryabvam        11730 Sep 28  2019 memcached.tpl
+-rw-r--r--    1 tryabvam   tryabvam          144 Sep 28  2019 php.tpl
+-rw-r--r--    1 tryabvam   tryabvam          236 Sep 28  2019 ssl.tpl

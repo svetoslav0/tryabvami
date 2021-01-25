@@ -1,0 +1,10 @@
+drwxr-xr-x    9 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x    9 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          178 Sep 28  2019 autoload.php
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 bin
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 composer
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Sep 28  2019 dealerdirect
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Sep 28  2019 phar-io
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Sep 28  2019 phpcompatibility
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Sep 28  2019 sebastian
+drwxr-xr-x    3 tryabvam   tryabvam         4096 Sep 28  2019 squizlabs

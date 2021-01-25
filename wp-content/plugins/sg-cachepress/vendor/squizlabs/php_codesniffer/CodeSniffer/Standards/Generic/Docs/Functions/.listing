@@ -1,0 +1,6 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   16 tryabvam   tryabvam         4096 Sep 28  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam          665 Sep 28  2019 CallTimePassByReferenceStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          997 Sep 28  2019 FunctionCallArgumentSpacingStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          695 Sep 28  2019 OpeningFunctionBraceBsdAllmanStandard.xml
+-rw-r--r--    1 tryabvam   tryabvam          693 Sep 28  2019 OpeningFunctionBraceKernighanRitchieStandard.xml

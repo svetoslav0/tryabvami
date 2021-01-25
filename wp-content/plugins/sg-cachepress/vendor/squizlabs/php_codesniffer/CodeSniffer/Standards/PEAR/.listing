@@ -1,0 +1,5 @@
+drwxr-xr-x    4 tryabvam   tryabvam         4096 Sep 28  2019 .
+drwxr-xr-x   10 tryabvam   tryabvam         4096 Sep 28  2019 ..
+drwxr-xr-x   10 tryabvam   tryabvam         4096 Sep 28  2019 Docs
+drwxr-xr-x   10 tryabvam   tryabvam         4096 Sep 28  2019 Sniffs
+-rw-r--r--    1 tryabvam   tryabvam         1267 Sep 28  2019 ruleset.xml

@@ -1,0 +1,13 @@
+drwxr-xr-x    2 tryabvam   tryabvam         4096 Jun  3  2019 .
+drwxr-xr-x   17 tryabvam   tryabvam         4096 Jun  3  2019 ..
+-rw-r--r--    1 tryabvam   tryabvam         1600 Jun  3  2019 CompiledData.php
+-rw-r--r--    1 tryabvam   tryabvam         1878 Jun  3  2019 Cookie.php
+-rw-r--r--    1 tryabvam   tryabvam         1313 Jun  3  2019 Option.php
+-rw-r--r--    1 tryabvam   tryabvam         6005 Jun  3  2019 Permissions.php
+-rw-r--r--    1 tryabvam   tryabvam         2644 Jun  3  2019 Preferences.php
+-rw-r--r--    1 tryabvam   tryabvam         3028 Jun  3  2019 RecentItems.php
+-rw-r--r--    1 tryabvam   tryabvam         4223 Jun  3  2019 Serializable.php
+-rw-r--r--    1 tryabvam   tryabvam         4777 Jun  3  2019 Session.php
+-rw-r--r--    1 tryabvam   tryabvam         7545 Jun  3  2019 Settings.php
+-rw-r--r--    1 tryabvam   tryabvam         1831 Jun  3  2019 Transient.php
+-rw-r--r--    1 tryabvam   tryabvam         2833 Jun  3  2019 Upload.php
