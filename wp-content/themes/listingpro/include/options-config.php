@@ -3106,13 +3106,6 @@
                     'default'  => true,
                 ),
                 array(
-                    'id'       => 'negotiable_price',
-                    'type'     => 'switch',
-                    'title'    => esc_html__('Negotiable Price ON/OFF', 'listingpro'),
-                    'subtitle' => esc_html__('', 'listingpro'),
-                    'default'  => false,
-                ),
-                array(
                     'id'       => 'listing_digit_text',
                     'type' => 'text',
                     'title'    => esc_html__( 'Add Price From Text', 'listingpro' ),

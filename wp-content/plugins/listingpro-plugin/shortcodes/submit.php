@@ -285,7 +285,6 @@ if(!function_exists('listingpro_shortcode_submit')){
 		$listingCurrText = $listingpro_options['listing_curr_text'];
 		$digitPriceSwitch = $listingpro_options['digit_price_switch'];
 		$listingDigitText = $listingpro_options['listing_digit_text'];
-		$negotiablePrice = $listingpro_options['negotiable_price'];
 		$priceSwitch = $listingpro_options['price_switch'];
 		$listingPriceText = $listingpro_options['listing_price_text'];
 		$listing_desc_text = $listingpro_options['listing_desc_text'];
@@ -741,31 +740,6 @@ if(!function_exists('listingpro_shortcode_submit')){
 												<input data-quick-tip="<h2>'. esc_html__( 'Price To', 'listingpro-plugin' ) .'</h2><p>'. esc_html__( 'Being honest with your customers can build a strong relationship. Dont hesitate to include.', 'listingpro-plugin' ) .'</p><img src='.$quicktip_price.'>" type="text" name="listingptext" class="form-control" id="listingptext" placeholder="' . esc_html__('Price To', 'listingpro-plugin') . '">
 											</div>';
 				}
-
-                if ($negotiablePrice) {
-                    $output .= '
-                        </div>
-                        <div class="row">
-				        <div class="col-md-4">
-				            <label for="negotiable_price">Цена по договаряне</label>
-				            <input type="checkbox" class="form-control" id="negotiable_price" onclick="togglePriceRange()" />
-                        </div>
-                        <script>
-                            const togglePriceRange = () => {
-                                if (document.getElementById("negotiable_price").checked) {
-                                    console.log("catched!");
-                                    document.getElementById("price_from").style.display = "none";
-                                    document.getElementById("price_to").style.display = "none";
-                                } else {
-                                    console.log("catched again!");
-                                    document.getElementById("price_from").style.display = "inline-block";
-                                    document.getElementById("price_to").style.display = "inline-block";
-                                }   
-                            }
-                            
-                        </script>
-				    ';
-                }
 			}
 			$output .=  '   </div>';
 			$output .=  '</div>';
