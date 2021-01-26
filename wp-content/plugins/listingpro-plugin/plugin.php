@@ -83,6 +83,7 @@ Author Email: support@cridio.com
 		 
 
 	}
+
 		 
     
 		function listingpro_load_textdomain() {

@@ -21,4 +21,29 @@ if ( !function_exists( 'chld_thm_cfg_parent_css' ) ):
 endif;
 add_action( 'wp_enqueue_scripts', 'chld_thm_cfg_parent_css', 10 );
 
+remove_action( 'init', 'jplug_admin_init' );
+
+
+add_action( 'init', 'jplug_admin_init_child' );
+function jplug_admin_init_child() {
+    if ( class_exists('WPBakeryVisualComposerAbstract') ) {
+        vc_disable_frontend();
+
+        require WP_PLUGIN_DIR.'/listingpro-plugin/inc/vc_mods/vc_mods.php';
+        $vc_template_dir =  WP_PLUGIN_DIR.'/listingpro-plugin/inc/vc_mods/vc_templates';
+        vc_set_shortcodes_templates_dir( $vc_template_dir );
+        include_once(WP_PLUGIN_DIR.'/listingpro-plugin/vc_special_elements.php');
+        include_once(WP_PLUGIN_DIR.'/listingpro-plugin/vc-icon-param.php');
+        $check = get_option( 'theme_activation' );
+        if(!empty($check) && $check != 'none'){
+            include_once(WP_PLUGIN_DIR.'/listingpro-plugin/shortcodes/pricing.php');
+            include_once(WP_PLUGIN_DIR.'/listingpro-plugin/shortcodes/submit.php');
+            include_once(WP_PLUGIN_DIR.'/listingpro-plugin/shortcodes/edit.php');
+            include_once(WP_PLUGIN_DIR.'/listingpro-plugin/shortcodes/checkout.php');
+        }
+
+        include_once(WP_PLUGIN_DIR.'/listingpro-plugin/shortcodes/category-element.php');
+    }
+}
+
 // END ENQUEUE PARENT ACTION
